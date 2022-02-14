@@ -1,4 +1,16 @@
 # AdvancedMachineLearningTUS2022
 
-Code will be added here weekly
+
+### All code from Class can be found in this [Directory](InClass/Lectures) 
+- [Week2](InClass/Lectures/Week%202.ipynb) - Pandas
+- [Week3](InClass/Lectures/Week%203.ipynb) - Linear Regression
+- [Week4](InClass/Lectures/Week%204.ipynb) - Polynomial Regression and Logistic Regression
+- [Week5](InClass/Lectures/Week%205.ipynb) - KNN and Clustering
+
+### Specific code for 
+- [PCA](InClass/Tutorials/PCA.ipynb)
+- [Feature Engineering](InClass/Tutorials/FeatureEngineering.ipynb)
+- [Validation](InClass/Tutorials/Validation.ipynb)
+ 
+ 
 
