@@ -1,3 +1,4 @@
+
 # AdvancedMachineLearningTUS2022
 
 
@@ -6,6 +7,7 @@
 - [Week3](InClass/Lectures/Week%203.ipynb) - Linear Regression
 - [Week4](InClass/Lectures/Week%204.ipynb) - Polynomial Regression and Logistic Regression
 - [Week5](InClass/Lectures/Week%205.ipynb) - KNN and Clustering
+- [Week6](InClass/Lectures/Week%206.ipynb) - SVM and Encoding
 
 ### Specific code for 
 - [PCA](InClass/Tutorials/PCA.ipynb)
