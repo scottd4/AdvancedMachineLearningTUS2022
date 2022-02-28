@@ -13,6 +13,6 @@
 - [PCA](InClass/Tutorials/PCA.ipynb)
 - [Feature Engineering](InClass/Tutorials/FeatureEngineering.ipynb)
 - [Validation](InClass/Tutorials/Validation.ipynb)
- 
+- [TFIDF](InClass/Tutorials/TFIDF.ipynb) 
  
 
