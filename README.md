@@ -15,3 +15,4 @@
 - [Validation](InClass/Tutorials/Validation.ipynb)
 - [TFIDF](InClass/Tutorials/TFIDF.ipynb)
 - [Hyperparameter Tuning](InClass/Tutorials/HyperTuning.ipynb) 
+- [OpenCV](InClass/Tutorials/OpenCV.ipynb)
