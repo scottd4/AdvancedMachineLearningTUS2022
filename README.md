@@ -16,3 +16,4 @@
 - [TFIDF](InClass/Tutorials/TFIDF.ipynb)
 - [Hyperparameter Tuning](InClass/Tutorials/HyperTuning.ipynb) 
 - [OpenCV](InClass/Tutorials/OpenCV.ipynb)
+- [TensorFlow](InClass/Tutorials/TensorFlow.ipynb)
