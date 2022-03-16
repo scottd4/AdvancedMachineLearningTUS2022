@@ -3,17 +3,18 @@
 
 
 ### All code from Class can be found in this [Directory](InClass/Lectures)
-- [Week2](InClass/Lectures/Week%202.ipynb) - Pandas
-- [Week3](InClass/Lectures/Week%203.ipynb) - Linear Regression
-- [Week4](InClass/Lectures/Week%204.ipynb) - Polynomial Regression and Logistic Regression
-- [Week5](InClass/Lectures/Week%205.ipynb) - KNN and Clustering
-- [Week6](InClass/Lectures/Week%206.ipynb) - SVM and Encoding
+- [Pandas](InClass/Lectures/Pandas.ipynb) - Pandas
+- [Regression Part1](InClass/Lectures/RegressionPart1.ipynb) - Linear Regression
+- [Regression Part2](InClass/Lectures/RegressionPart2.ipynb) - Polynomial Regression and Logistic Regression
+- [Clustering and KNN](InClass/Lectures/Clustering.ipynb) - KNN and Clustering
+- [SVM and Encoding](InClass/Lectures/SVM.ipynb) - SVM and Encoding
+- [NN and TimeSeries](InClass/Lectures/NN.ipynb) - Neural Networks and TimeSeries
 
 ### Specific code for
 - [PCA](InClass/Tutorials/PCA.ipynb)
 - [Feature Engineering](InClass/Tutorials/FeatureEngineering.ipynb)
 - [Validation](InClass/Tutorials/Validation.ipynb)
 - [TFIDF](InClass/Tutorials/TFIDF.ipynb)
-- [Hyperparameter Tuning](InClass/Tutorials/HyperTuning.ipynb) 
+- [Hyperparameter Tuning](InClass/Tutorials/HyperTuning.ipynb)
 - [OpenCV](InClass/Tutorials/OpenCV.ipynb)
 - [TensorFlow](InClass/Tutorials/TensorFlow.ipynb)
