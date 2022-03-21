@@ -18,3 +18,4 @@
 - [Hyperparameter Tuning](InClass/Tutorials/HyperTuning.ipynb)
 - [OpenCV](InClass/Tutorials/OpenCV.ipynb)
 - [TensorFlow](InClass/Tutorials/TensorFlow.ipynb)
+- [Ensemble](InClass/Tutorials/Ensemble.ipynb)
