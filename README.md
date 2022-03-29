@@ -9,6 +9,7 @@
 - [Clustering and KNN](InClass/Lectures/Clustering.ipynb) - KNN and Clustering
 - [SVM and Encoding](InClass/Lectures/SVM.ipynb) - SVM and Encoding
 - [NN and TimeSeries](InClass/Lectures/NN.ipynb) - Neural Networks and TimeSeries
+- [TensorFlow](InClass/Lectures/TensorFlow.ipynb) - TensorFlow Implementation (wide and deep)
 
 ### Specific code for
 - [PCA](InClass/Tutorials/PCA.ipynb)
