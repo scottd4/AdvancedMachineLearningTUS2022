@@ -9,6 +9,8 @@
 - [Clustering and KNN](InClass/Lectures/Clustering.ipynb) - KNN and Clustering
 - [SVM and Encoding](InClass/Lectures/SVM.ipynb) - SVM and Encoding
 - [NN and TimeSeries](InClass/Lectures/NN.ipynb) - Neural Networks and TimeSeries
+- [Other NN](InClass/Lectures/Other.ipynb) - Other Neural nets
+
 
 ### Specific code for
 - [PCA](InClass/Tutorials/PCA.ipynb)
